@@ -7,7 +7,7 @@ This project was to perform analysis for Adventure Works Cycles company data.
 With this project, I was given the opportunity to use the SQL and data analytics skills that they have learned in the Generation Data Analytics program so far.
 
 Project Objectives
-<ul>
+<ul class="a">
 <li>Utilize SQL, Python, and data analytics skills to uncover key learnings from a sample dataset
 <li> Create a presentation deck
 <li> Deliver a group presentation, clearly communicating analytical results
@@ -24,9 +24,10 @@ What is the relationship between the size of the stores, number of employees and
 
 
 My Role
-> Created SQL queries that addressed Adventure Works' company expansion
-> Created visualizations to easily communicate data analysis findngs
-> Summarize and present analysis results
-
+<ul class="a">
+<li> Created SQL queries that addressed Adventure Works' company expansion
+<li> Created visualizations to easily communicate data analysis findngs
+<li> Summarize and present analysis results
+</ul>
 
 
