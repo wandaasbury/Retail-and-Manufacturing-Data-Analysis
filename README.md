@@ -26,7 +26,7 @@ What is the relationship between the size of the stores, number of employees and
 My Role
 <ul class="a">
 <li> Created SQL queries that addressed Adventure Works' company expansion
-<li> Created visualizations to easily communicate data analysis findngs
+<li> Created visualizations to easily communicate data analysis findings
 <li> Summarize and present analysis results
 </ul>
 
