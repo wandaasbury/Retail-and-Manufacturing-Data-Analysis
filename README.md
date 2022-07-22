@@ -6,14 +6,14 @@ This project was to perform an analysis of Adventure Works Cycles company data.
 
 With this project, I was given the opportunity to use the SQL and data analytics skills that they have learned in the Generation Data Analytics program.
 
-Project Objectives
+<b>Project Objectives</b>
 <ul class="a">
 <li>Utilize SQL, Excel, and data analytics skills to uncover key learnings from a sample dataset
 <li> Create a presentation deck
 <li> Deliver a group presentation, clearly communicating analytical results
 </ul>
 
-Questions
+<b>Questions</b>
 
 What are the regional sales in the best-performing country?<br>
 Identify the three most important cities. Show the breakdown of top-level product categories against city.<br>
@@ -22,7 +22,7 @@ What is the relationship between sick leave and Job Title (PersonType)?<br>
 What is the relationship between store trading duration and revenue?<br>
 What is the relationship between the size of the stores, number of employees and revenue?<br>
 
-My Role
+<b>My Role</b>
 <ul class="a">
 <li> Created SQL queries that addressed Adventure Works' company expansion
 <li> Created visualizations to easily communicate data analysis findings
@@ -30,12 +30,12 @@ My Role
 </ul>
 
 
-Database Design
+<b>Database Design</b>
 
 ![DatabaseDesign](https://user-images.githubusercontent.com/21301202/180499056-060a44e1-444d-4ba3-a3c9-52f269946f71.png)
 <br/>
 <br/>
-SQL Queries
+<b>SQL Queries</b>
 
 ![BestPerformingCountrya](https://user-images.githubusercontent.com/21301202/180499050-b5fb7407-8204-4350-aa69-8a0a8e847bd3.png)
 <br/>
@@ -51,7 +51,7 @@ SQL Queries
 ![XML](https://user-images.githubusercontent.com/21301202/180499065-5dcc9a8f-1520-481b-9656-216f34f94344.png)
 ![YearsOpenedRevenueRelationship](https://user-images.githubusercontent.com/21301202/180499066-7ba0c963-f4cf-470c-8dc5-2eeb4d15ac90.png)
 
-Dashboard
+<b>Dashboard</b>
 <br/>
 <br/>
 ![Dashboard](https://user-images.githubusercontent.com/21301202/180499054-cf08648f-2073-4dcd-8f2e-2deaee8eb34d.png)
