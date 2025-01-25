@@ -1,5 +1,6 @@
 --Q1
 --Finds the best performing country
+
 SELECT 
 
 Sales.Salesterritory.CountryRegionCode as Country,
