@@ -4,8 +4,6 @@
 
 This project was to perform an analysis of Adventure Works Cycles company data.
 
-With this project, I was given the opportunity to use the SQL and data analytics skills that they have learned in the Generation Data Analytics program.
-
 <b>Project Objectives</b>
 <ul class="a">
 <li>Utilize SQL, Excel, and data analytics skills to uncover key learnings from a sample dataset
